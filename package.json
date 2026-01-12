@@ -1,0 +1,12 @@
+{
+  "name": "proclient-js",
+  "version": "2.1.0",
+  "description": "Dragon Client - Converted from Java to JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["minecraft", "client", "dragon"],
+  "author": "Fatal"
+}
